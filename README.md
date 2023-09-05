@@ -13,6 +13,6 @@ cd myproject
 
 ```bash
 1. เปิดไฟล์ index.html ใน VScode
-2. สร้างไฟล์ static แล้วนำไฟล์ style.css และ script.js ไปใส่
+2. สร้างโฟเดอร์ static แล้วนำไฟล์ style.css และ script.js ไปใส่
 3. ทำการรัน ไฟล์ index.html
 ```
