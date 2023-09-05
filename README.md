@@ -12,5 +12,6 @@ cd myproject
 ## วิธีการรัน
 
 ```bash
-html index.html
+1. เปิดไฟล์ index.html ใน Vscode
+2. ทำการรัน
 ```
